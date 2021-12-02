@@ -7,7 +7,7 @@ project author : ydb721
 Project creation date : 2021/12/02
 project member : ydb721
 
-Gihhub Test
+Gihub Test
 //C Programming
 
 #include <stdio.h>
